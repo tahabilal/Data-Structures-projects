@@ -1,0 +1,4 @@
+Term Frequency Inverse Document Frequency is another feature representation
+technique. Term Frequency Inverse Document Frequency is often used in text mining
+field. Term Frequency Inverse Document Frequency measures how important a term
+is.
